@@ -1,5 +1,5 @@
 decorator==4.0.9
-ipython==4.1.2
+ipython==7.16.3
 ipython-genutils==0.1.0
 numpy==1.10.4
 path.py==8.1.2
