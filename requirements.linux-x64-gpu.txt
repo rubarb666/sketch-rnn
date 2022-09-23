@@ -5,7 +5,7 @@ numpy==1.10.4
 path.py==8.1.2
 pexpect==4.0.1
 pickleshare==0.6
-protobuf==3.0.0b2
+protobuf==3.18.3
 ptyprocess==0.5.1
 pyparsing==2.1.0
 simplegeneric==0.8.1
