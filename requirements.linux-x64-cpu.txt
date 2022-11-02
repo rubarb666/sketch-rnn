@@ -13,5 +13,5 @@ six==1.10.0
 svgwrite==1.1.6
 https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.7.1-cp27-none-linux_x86_64.whl
 traitlets==4.2.1
-wheel==0.29.0
+wheel==0.38.0
 wsgiref==0.1.2
