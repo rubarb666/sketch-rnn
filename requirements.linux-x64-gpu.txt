@@ -13,5 +13,6 @@ six==1.10.0
 svgwrite==1.1.6
 https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow-0.7.1-cp27-none-linux_x86_64.whl
 traitlets==4.2.1
-wheel==0.29.0
+wheel==0.38.0
 wsgiref==0.1.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
